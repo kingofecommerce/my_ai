@@ -1,4 +1,4 @@
-Date, Home_Team, Away_Team, Home_Score, Away_Score, Score_Difference, Home_Hits, Home_HomeRuns, Home_StolenBases, Home_StrikeOuts, Home_DoublePlays, Home_Errors, Away_Hits, Away_HomeRuns, Away_StolenBases, Away_StrikeOuts, Away_DoublePlays, Away_Errors, Home_Pitching, Away_Pitching, Win
+Date,Home_Team,Away_Team,Home_Score,Away_Score,Score_Difference,Home_Hits,Home_HomeRuns,Home_StolenBases,Home_StrikeOuts,Home_DoublePlays,Home_Errors,Away_Hits,Away_HomeRuns,Away_StolenBases,Away_StrikeOuts,Away_DoublePlays,Away_Errors,Home_Pitching,Away_Pitching,Win
 20230313,9,6,6,1,5,8,1,0,4,0,0,5,1,2,8,0,2,2.25,31.5,9
 20230313,10,2,1,2,1,4,0,0,15,0,3,5,0,0,7,0,0,13.5,3,2
 20230313,4,1,2,4,2,10,1,1,11,2,2,9,0,0,8,1,2,36,9,1
