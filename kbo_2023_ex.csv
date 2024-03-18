@@ -1,4 +1,4 @@
-날짜,홈팀,어웨이팀,홈팀점수,어웨이팀점수,점수차이,홈팀_안타,홈팀_홈런,홈팀_도루,홈팀_삼진,홈팀_병살,홈팀_실책,어웨이팀_안타,어웨이팀_홈런,어웨팀_도루,어웨이팀_삼진,어웨이팀_병살,어웨이팀_실책,홈팀_방어율,어웨이팀_방어율,승
+'Date', 'Home_Team', 'Away_Team', 'Home_Score', 'Away_Score', 'Score_Difference', 'Home_Hits', 'Home_HomeRuns', 'Home_StolenBases', 'Home_StrikeOuts', 'Home_DoublePlays', 'Home_Errors', 'Away_Hits', 'Away_HomeRuns', 'Away_StolenBases', 'Away_StrikeOuts', 'Away_DoublePlays', 'Away_Errors', 'Home_Pitching', 'Away_Pitching', 'Win'
 20230313,9,6,6,1,5,8,1,0,4,0,0,5,1,2,8,0,2,2.25,31.5,9
 20230313,10,2,1,2,1,4,0,0,15,0,3,5,0,0,7,0,0,13.5,3,2
 20230313,4,1,2,4,2,10,1,1,11,2,2,9,0,0,8,1,2,36,9,1
